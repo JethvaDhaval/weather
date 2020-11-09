@@ -1,0 +1,7 @@
+.tdday:active {
+    background-color: black;
+    opacity: 0.1;
+}
+.tdday{
+    cursor: pointer;
+}
